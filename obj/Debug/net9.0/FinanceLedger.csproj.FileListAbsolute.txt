@@ -1,0 +1,296 @@
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\FinanceLedger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\FinanceLedger.AssemblyInfoInputs.cache
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\FinanceLedger.AssemblyInfo.cs
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\FinanceLedger.csproj.CoreCompileInputs.cache
+E:\Repo\Csharp dotnet\async await\financeledger\bin\Debug\net9.0\FinanceLedger.exe
+E:\Repo\Csharp dotnet\async await\financeledger\bin\Debug\net9.0\FinanceLedger.deps.json
+E:\Repo\Csharp dotnet\async await\financeledger\bin\Debug\net9.0\FinanceLedger.runtimeconfig.json
+E:\Repo\Csharp dotnet\async await\financeledger\bin\Debug\net9.0\FinanceLedger.dll
+E:\Repo\Csharp dotnet\async await\financeledger\bin\Debug\net9.0\FinanceLedger.pdb
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\FinanceLedger.dll
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\refint\FinanceLedger.dll
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\FinanceLedger.pdb
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\FinanceLedger.genruntimeconfig.cache
+E:\Repo\Csharp dotnet\async await\financeledger\obj\Debug\net9.0\ref\FinanceLedger.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\obj\Debug\net9.0\FinanceLedger.csproj.AssemblyReference.cache
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Azure.Core.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Azure.Identity.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Humanizer.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.ClientModel.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.CodeDom.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Text.Json.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Repo\Csharp dotnet\async await\FinanceLedger\obj\Debug\net9.0\FinanceL.32F9B9C4.Up2Date
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\FinanceLedger.exe
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\FinanceLedger.deps.json
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\FinanceLedger.runtimeconfig.json
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\FinanceLedger.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\FinanceLedger.pdb
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.csproj.AssemblyReference.cache
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.AssemblyInfoInputs.cache
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.AssemblyInfo.cs
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.csproj.CoreCompileInputs.cache
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceL.32F9B9C4.Up2Date
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\refint\FinanceLedger.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.pdb
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.genruntimeconfig.cache
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\ref\FinanceLedger.dll
