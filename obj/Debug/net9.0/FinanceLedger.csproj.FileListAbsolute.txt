@@ -294,3 +294,4 @@ C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\refint\FinanceLedg
 C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.pdb
 C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.genruntimeconfig.cache
 C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\ref\FinanceLedger.dll
+C:\Users\Blacknibolion\Desktop\FinanceLedger\obj\Debug\net9.0\FinanceLedger.sourcelink.json

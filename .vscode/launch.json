@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net9.0/FinanceLedger.dll>",
+            "program": "${workspaceFolder}/bin/Debug/net9.0/FinanceLedger.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
